@@ -1,1 +1,1 @@
-temporary
+a pack for friends
